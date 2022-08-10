@@ -1568,6 +1568,11 @@ li.address-section .fa{
   background-color: grey;
 }
 
+#map .frame {
+  width: 100%;
+  height: 400px;
+}
+
 .lineHeight{
   line-height: 30px;
 }
